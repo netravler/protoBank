@@ -1,0 +1,9 @@
+c:\users\pheintz\documents\visual studio 2010\Projects\proto_Bank\proto_Bank\bin\Debug\proto_Bank.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\proto_Bank\proto_Bank\bin\Debug\proto_Bank.pdb
+c:\users\pheintz\documents\visual studio 2010\Projects\proto_Bank\proto_Bank\obj\x86\Debug\proto_Bank.Form1.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\proto_Bank\proto_Bank\obj\x86\Debug\proto_Bank.Properties.Resources.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\proto_Bank\proto_Bank\obj\x86\Debug\proto_Bank.csproj.GenerateResource.Cache
+c:\users\pheintz\documents\visual studio 2010\Projects\proto_Bank\proto_Bank\obj\x86\Debug\proto_Bank.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\proto_Bank\proto_Bank\obj\x86\Debug\proto_Bank.pdb
+c:\users\pheintz\documents\visual studio 2010\Projects\proto_Bank\proto_Bank\bin\Debug\proto_Bank.exe.config
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\proto_Bank\proto_Bank\obj\x86\Debug\proto_Bank.csprojResolveAssemblyReference.cache
